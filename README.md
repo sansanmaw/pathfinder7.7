@@ -31,35 +31,35 @@ Simulate dispatching and logistics operations.
 5. Shortest Paths
 6. Exit
    
-# Choose an option (1-6): 1
+Choose an option (1-6): 1
 Donor name: RedCross
 Donation location: Yangon
 Item: Water Bottles
 Amount: 1000
 Urgency (1-5): 3
 
-**Added RedCross at Yangon: 100 x Water Bottles (Urgency: 3)**
+Added RedCross at Yangon: 100 x Water Bottles (Urgency: 3)
 -----------------
 
-**Choose an option (1-6): 2**
+Choose an option (1-6): 2
 Disaster location: Mandalay
 Urgency (1-5): 1
 
 Reported aid request at Mandalay with urgency 1.
 -----------------
 
-**Choose an option (1-6): 3**
+Choose an option (1-6): 3
 
 Distributing supplies to: Mandalay (Urgency: 1)
 Sending 100 items (Water Bottles) from Alice at Yangon to Mandalay.
 -----------------
 
-**Choose an option (1-6): 4**
+Choose an option (1-6): 4
 
 No supplies available.
 -----------------
 
-**Choose an option (1-6): 5**
+Choose an option (1-6): 5
 
 Enter starting location for shortest path: Yangon
 
@@ -72,7 +72,7 @@ Shortest paths from Yangon:
 - Sagaing: 11
 -----------------
 
-**Choose an option (1-6): 6**
+Choose an option (1-6): 6
 
 Exit
 
