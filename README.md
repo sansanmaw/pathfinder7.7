@@ -31,14 +31,14 @@ Simulate dispatching and logistics operations.
 5. Shortest Paths
 6. Exit
    
-**Choose an option (1-6): 1** 
+# Choose an option (1-6): 1
 Donor name: RedCross
 Donation location: Yangon
 Item: Water Bottles
 Amount: 1000
 Urgency (1-5): 3
 
-Added RedCross at Yangon: 100 x Water Bottles (Urgency: 3)
+**Added RedCross at Yangon: 100 x Water Bottles (Urgency: 3)**
 -----------------
 
 **Choose an option (1-6): 2**
