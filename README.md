@@ -1,9 +1,9 @@
 # Pathfinders 7.7
-Final Project of Data Structures and Algorithm Course [May 25, 2025] [Authors: Ei Mon Soe, San San Maw]
+Final Project of DATA 301: Data Structures and Algorithms Course [May 25, 2025] [Authors: Ei Mon Soe, San San Maw]
 
 # Project Description 
 
-**Based on the heartbreaking earthquake with Magnitude 7.7 on the Richter scale happened in Myanmar in March, 2025, Pathfinders 7.7 id developed as a Disaster Relief Resource Management System solution built in Python using basic data structures including:**
+**Based on the heartbreaking earthquake with Magnitude 7.7 on the Richter scale that happened in Myanmar on March 28, 2025, Pathfinders 7.7 team developed as a Disaster Relief Resource Management System solution built in Python using basic data structures including:**
 
 _Linked List_ – to manage(add,delete) donation entries
 
