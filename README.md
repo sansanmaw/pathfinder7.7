@@ -7,7 +7,7 @@ Final Project of Data Structures and Algorithm Course [May, 2025] [Authors: Ei M
 
 _Linked List_ – to manage(add,delete) donation entries
 
-_Priority Queue _ – to operate disaster reports based on urgency
+_Priority Queue_– to operate disaster reports based on urgency
 
 _Dijkstra’s Algorithm_ – to find the shortest way from donation point to disaster locations.
 
