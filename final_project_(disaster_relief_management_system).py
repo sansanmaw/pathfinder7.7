@@ -307,7 +307,7 @@ def menu():
             aid_requests.report_request(location, urgency)
 
         elif choice == '3': #Distribute all current donations
-            distribute_supplies(donations, aid_requests, graph)
+            distribute_supplies(donations, aid_requests)
 
         elif choice == '4': #Print all current locations
             donations.print_list()
