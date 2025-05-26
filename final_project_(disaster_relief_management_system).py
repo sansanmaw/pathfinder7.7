@@ -337,7 +337,7 @@ def add_n_donations(n):
     dl = DonationList() #Empty list
     for i in range(n): #Applying for loop repeating n times
         dl.append(f"Donor{i}", "City", f"Item{i}", 1, 3)
-    return dl #print donation list
+    return dl 
 
 import time
 n = 50 #Number of donations
@@ -363,14 +363,14 @@ def requests(n):
 
 n = 50 #number of requests
 start = time.time()
-aid_queue = requests(n) #O(log n)
+aid_queue = requests(n) #O(n log n)
 end = time.time()
 print(f"\nTime to report {n} aid requests: {end - start:.4f} seconds")
 
 start = time.time()
 count = 0 #starting a counter
 while not aid_queue.is_empty():
-    aid_queue.get_next_request() #O(log n)
+    aid_queue.get_next_request() #O(n log n)
     count += 1 #process the request count
 end = time.time()
 print(f"Time to process {count} aid requests (get_next_request): {end - start:.4f} seconds")
